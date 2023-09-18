@@ -1,0 +1,28 @@
+Sep 18 05:41
+
+cem@LA-BAGUR:-/Desktop
+
+5 python3
+
+Python 3.8.5% (default, Jul 28 2020, 12:59:40)
+
+[GCC 9.3.0] on Linux Type "help", "copyright", "credits" or "license" for more information.
+
+>>> print" dik: gelas berukuran & liter bertst atr penuh, gelas kez gelas ukuran 5 liter kosong, gelas ke3 ukuran 3 ltter kosong in") 
+      dik: gelas berukuran B 1iter berist atr penuh, gelas kez gelas ukuran 5 Liter kosong, gelas ke3 ukuran 3 1tter kosong
+
+>>> print(" buatlah algoritma agar anggun nendapatkan atr sesuat dengan yan dia inginkan \n") 
+      buatlah algoritma agar anggun mendapatkan atr sesuat dengan yan dia inginkan
+
+>>> print("langkah pertama tuangkan a ke gelas b sebanyak 5 liter in") 
+       Langkah pertana tuangkan a ke gelas b sebanyak 5 liter
+
+>>> print(" Langkah kez tuangkan gelas a ke gelas c sebanyak 2 liter \n") 
+       Langkah kez tuangkan gelas a ke gelas c sebanyak 2 liter
+
+>>> print(" Langkah ke3 tuangkan gelas b ke gelas c sebanyak 1 liter \n") 
+       Langkah ke3 tuangkan gelas b ke gelas c sebanyak 1 liter
+
+>>> print("jadt gelas a berist (1 liter), dan gelas b bertst (4 ltter), dan gelas c berist (3 ltter air) \n") 
+        Jadi gelas a berisi (1 liter), dan gelas b berisi (4 liter), dan gelas c berisi (3 liter air)
+
